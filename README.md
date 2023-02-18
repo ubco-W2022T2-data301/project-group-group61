@@ -1,4 +1,4 @@
-# Group 61 - Analyzing Amazon: A Data Exploration Project\
+# Group 61 - Analyzing Amazon: A Data Exploration Project
 
 ## Milestones
 
