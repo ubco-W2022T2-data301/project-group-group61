@@ -16,17 +16,18 @@ The dataset was found on kaggle.com. The data was provided by Karkavel Raja J, w
 
 - Mahi Gangal: I am a second year computer science student from India. I love playing with numbers!
 - Pratham Shah: I am a second year comp-sci student. During Covid, I developed my liking for coding and stocks.
-- Bassel Osekrie: I am a fourth year human kinetics student, who stumbled upon coding found that I enjoyed it, and the endless possibilities it provided.
+
 
 ## Images
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
 
-<img src ="images/test.png" width="100px">
+![](images/dashboard1.png)
+
+![](images/dashboard2.png)
 
 ## References
 
-{Add your stuff here}
+
 
 
 
