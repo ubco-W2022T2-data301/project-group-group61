@@ -4,4 +4,4 @@ The aim of our project is to empower significant insights into Amazon sales thro
 
 ## Contracted Grade
 
-For this project, we agree to contract for an A.
+For this project, we agree to contract for a B.
