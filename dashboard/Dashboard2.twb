@@ -722,8 +722,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1200' minheight='1200' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='19' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='18' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='21' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='20' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='49000' id='6' is-fixed='true' name='Sheet 2' w='47100' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -774,7 +774,7 @@
       <simple-id uuid='{F82B69EA-52A5-47C8-BBE9-D118177F5AB2}' />
     </dashboard>
   </dashboards>
-  <windows pres-mode='true' source-height='30'>
+  <windows source-height='30'>
     <window class='worksheet' name='Sheet 2'>
       <cards>
         <edge name='left'>
